@@ -1,4 +1,4 @@
-# bytbit_clone
+# bybit_clone
 
 A new Flutter project.
 

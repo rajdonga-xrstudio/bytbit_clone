@@ -1,4 +1,4 @@
-package com.example.bytbit_clone
+package com.example.bybit_clone
 
 import io.flutter.embedding.android.FlutterActivity
 
